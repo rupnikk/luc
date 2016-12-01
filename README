@@ -1,0 +1,13 @@
+Urban Rupnik
+1.12.2016
+Zadlog 42
+
+
+Popravilo luči:
+-nastavitev avtomatskega odklopa luči napetosti na tranzistorju pod 5.5V
+-omejilnik toka -> 380 mA.
+-upor R je za hitrost prehoda in strmino linearnosti
+-VCE za nastavitev toka -> max 0. -> R=2.24
+-Precejšen padec napetosti, višji napajalnik
+-zaščita -> varovalka 3A
+-širina vezja = 2.5 mm
